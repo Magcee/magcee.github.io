@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Magcee",
+        "url": "https://magcee.github.io/",
+        "title": "访问主页",
+        "introduction": "O(∩_∩)O哈哈~",
+        "avatar": "https://godweiyang.com/medias/avatars/avatar.jpg"
+    },{
+        "name": "知乎专栏",
+        "url": "https://zhuanlan.zhihu.com/godweiyang",
+        "title": "访问主页",
+        "introduction": "一个有温度的深度学习小屋",
+        "avatar": "/medias/avatars/myzhihu.png"
+    }
+]
